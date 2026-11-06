@@ -1,0 +1,10 @@
+modo;rodada;tempo_ms;parse_total;parse_hard;parse_time_cpu_cs;cpu_sessao_cs
+Hardcoded;1;259920;100137;100018;15623;17877
+Firmcoded;1;29911;100052;9;65;454
+Softcoded;1;16905;53;9;1;170
+Hardcoded;2;238464;100136;100015;14242;16451
+Firmcoded;2;25900;100052;9;54;445
+Softcoded;2;15309;53;5;0;162
+Hardcoded;3;195494;100136;100015;11419;13014
+Firmcoded;3;19526;100052;9;44;307
+Softcoded;3;13356;53;9;0;119

@@ -1,0 +1,4 @@
+modo;tempo_medio_s;parse_total;parse_hard;cpu_parse_s;cpu_sessao_s;linhas_por_s;ganho_vs_hardcoded
+Hardcoded;231.293;100136;100016;137.61;157.81;432;1.00
+Firmcoded;25.112;100052;9;0.54;4.02;3982;9.21
+Softcoded;15.190;53;8;0.00;1.50;6583;15.23
